@@ -1,14 +1,5 @@
 # A way to add animation to tkinter
 
-# Combining classes AnimationCanvas and AnimatedObject into one module
-
-# Fixed major bug 21 April 2015
-# New version 19 April 2015:
-# disable the start method when going
-# add accelerate and decelerate methods
-
-# Rhys Price Jones 7 April 2015
-
 # AnimationCanvas extends tk.Canvas.  
 # It allows you to add as many AnimatedObjects as you like with addItem()
 # remove them with removeItem()
